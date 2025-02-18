@@ -53,9 +53,6 @@ locales:
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
   sourceFiles:
-  - path: en/BW.yml
-  - path: en/BW.txt
-  - path: en/BW.xml
-  - path: en/BW.strings
+  - path: en/en.json
 
 
