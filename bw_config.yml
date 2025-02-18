@@ -53,6 +53,6 @@ locales:
 sources:
 - defaultOutputPathPattern: "{lang}/{filename}"
   sourceFiles:
-  - path: en/en.json
+  - path: en.json
 
 
